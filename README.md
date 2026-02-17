@@ -31,3 +31,12 @@ Siber Güvenlik ve Havacılık teknojileri ile ilgileniyorum.
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="45" height="45" />
   </a>
 </div>
+
+### 📊 GitHub İstatistiklerim
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Burakwares&show_icons=true&theme=dark" alt="GitHub Stats" width="400" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burakwares&layout=compact&theme=dark" alt="Top Languages" width="300" />
+</p>
