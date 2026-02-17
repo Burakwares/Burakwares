@@ -8,12 +8,12 @@ Siber Güvenlik ve Havacılık teknojileri ile ilgileniyorum.
 * **Siber Güvenlik:** Pentesting, CTF (HackTheBox, TryHackMe) ve DevSecOps.
 * **İşletim Sistemleri:** Linux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> meraklısıyım, Android Custom ROM ve Root işlemleriyle uğraşıyorum.
 
-
+- ---
 ### 🎯 Hedeflerim
 - [ ] Siber güvenlik araçları geliştirmek.
 - [ ] Kendimi yazılım konusunda sürekli geliştirip; gerekli durumlarda uygun yazılımlar üretebilmek.
 - [ ] Havacılık elektroniği (Avionics) alanında projeler üretmek.
-
+- ---
 ### 🎮 İlgi Alanlarım
 - Heavy Metal ve Anadolu Rock dinlemekten hoşlanırım.
 - DCS World, War Thunder ve League of Legends gibi oyunlar oynamaktan keyif alırım.
@@ -32,11 +32,10 @@ Siber Güvenlik ve Havacılık teknojileri ile ilgileniyorum.
   </a>
 </div>
 
+- ---
+
 ### 📊 GitHub İstatistiklerim
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Burakwares&show_icons=true&theme=dark" alt="GitHub Stats" width="400" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burakwares&layout=compact&theme=dark" alt="Top Languages" width="300" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Burakwares&theme=dark&hide_border=false)
+
+
