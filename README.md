@@ -1,4 +1,5 @@
-# Selam! Ben Burak
+# Selam! Ben Burak<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
+
 
 Ankara Yıldırım Beyazıt Üniversitesi Yazılım Mühendisliği öğrencisiyim.
 Siber Güvenlik ve Havacılık teknojileri ile ilgileniyorum.
