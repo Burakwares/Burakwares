@@ -37,4 +37,4 @@ My passion lies at the intersection of **Cybersecurity** and **Aviation Technolo
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Burakwares&theme=dark&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Burakwares&theme=gruvbox-duo)](https://git.io/streak-stats)
